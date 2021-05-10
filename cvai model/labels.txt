@@ -1,6 +1,50 @@
+almond
+apple
+asparagus
+avocado
+baby corn
+bacon
+bagel
+baking soda
+balsamic vinegar
+banana
+bean
+bell pepper
+blackberry
+blueberry
 bread
+brocolli
+butter
+carrot
 cheese
+chicken
+chocolate
+cookie
+cream cheese
 egg
-lemon
-nutella
-tortilla
+flour
+garlic
+green beans
+ground beef
+ham
+honey
+ice cream
+ketchup
+lasagna noodle
+lettuce
+lunch meat
+marshmallow
+mayonnaise
+milk
+mushroom
+mustard
+noodle
+oatmeal
+oil
+onion
+sausage
+shredded cheese
+sugar
+sweet potatoes
+tomato
+yogurt

@@ -3,11 +3,11 @@
   "Platform": "TensorFlow",
   "Flavor": "TensorFlowJs",
   "ExporterVersion": "2.0",
-  "ExportedDate": "2021-05-05T19:15:01.9131651Z",
-  "IterationId": "8fbb1428-2350-41b6-8782-ba807e3e4710",
+  "ExportedDate": "2021-05-10T18:41:48.354672Z",
+  "IterationId": "401db4d2-21b9-4b1f-9c33-d1bf3f73d51c",
   "ModelFileName": "model.zip",
   "LabelFileName": "labels.txt",
   "MetadataPropsFileName": "metadata_properties.json",
-  "ModelFileSHA1": "1a9e41ed05909d005cb93bcec31493bcea34925d",
+  "ModelFileSHA1": "7f3fa329676732bdfbeb21eca00df47edb7bbb17",
   "SchemaVersion": "1.0"
 }
